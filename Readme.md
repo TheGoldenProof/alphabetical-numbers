@@ -32,11 +32,8 @@ After that would follow every number starting with "eight billion" - theres one 
 
 The last one of those is "eight billion two thousand two hundred two".  
 What comes next?  
-Well, there's exactly one -illion that starts with 'c': *centillion*.
-Just like with eight billion, there would be one centillion numbers all starting with "eight centillion" next.
-One centillion is a pretty big number though, 10^303^ (10^3(100)+3^). Writing that to a text file would be a little difficult.  
-After centillion is where we get stuck though. Beyond 10^3003^ (10^3(1000)+3^, one "millillion"), prefixes begin to repeat.
+Beyond centillion (10^3(100)+3^), prefixes begin to repeat.
 The alphabetically first of such prefixes is "centilli-". One centillicentillion is 10^3(100,100)+3^, One centillicentillicentillion is 10^3(100,100,100)+3^.
 But you'll notice that the longer one is first alphabetically, because the 'c' in the next "centilli" comes before the 'o' in "on".
-That means that it becomes preferable to keep chaining centilli's than anything else. Therefore, the next number after the last "eight centillion" will "eight centillicentillicentillicentilli..." and so on forever.
+That means that it becomes preferable to keep chaining centilli's than anything else. Therefore, the next number after the last "eight billion two thousand two hundred two" will be "eight centillicentillicentillicentilli..." and so on forever.
 Since the number is infinitely large, there's no way to determine the immediate next number.
